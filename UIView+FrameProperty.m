@@ -1,11 +1,3 @@
-//
-//  UIView+FrameProperty.m
-//  彩票2017
-//
-//  Created by Jerry Huang on 2018/1/6.
-//  Copyright © 2018年 Jerry Huang. All rights reserved.
-//
-
 #import "UIView+FrameProperty.h"
 
 @implementation UIView (FrameProperty)
@@ -45,4 +37,5 @@
     rect.origin.y = y;
     self.frame = rect;
 }
+
 @end
