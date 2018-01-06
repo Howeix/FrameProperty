@@ -1,10 +1,3 @@
-//
-//  UIView+FrameProperty.h
-//  彩票2017
-//
-//  Created by Jerry Huang on 2018/1/6.
-//  Copyright © 2018年 Jerry Huang. All rights reserved.
-//
 
 #import <UIKit/UIKit.h>
 
